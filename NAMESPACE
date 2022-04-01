@@ -1,0 +1,10 @@
+#’ @importFrom np b.star
+
+importFrom(mvtnorm, rmvnorm)
+importFrom(mvtnorm, dmvnorm)
+
+export(DEM1)
+export(DEM2)
+export(DMOEM)
+export(DOEM1)
+export(DOEM2)
